@@ -10,7 +10,14 @@ namespace TestGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Hithub");
+            Console.WriteLine("Test Hithub"+
+                Environment.NewLine+"Enter A: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter B: ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("A + B = " + (a + b).ToString());
             Console.ReadLine();
         }
     }

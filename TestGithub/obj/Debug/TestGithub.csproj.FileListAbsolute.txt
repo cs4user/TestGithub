@@ -1,0 +1,7 @@
+D:\Git\TestGithub\TestGithub\bin\Debug\TestGithub.exe.config
+D:\Git\TestGithub\TestGithub\bin\Debug\TestGithub.exe
+D:\Git\TestGithub\TestGithub\bin\Debug\TestGithub.pdb
+D:\Git\TestGithub\TestGithub\obj\Debug\TestGithub.csprojAssemblyReference.cache
+D:\Git\TestGithub\TestGithub\obj\Debug\TestGithub.csproj.CoreCompileInputs.cache
+D:\Git\TestGithub\TestGithub\obj\Debug\TestGithub.exe
+D:\Git\TestGithub\TestGithub\obj\Debug\TestGithub.pdb
